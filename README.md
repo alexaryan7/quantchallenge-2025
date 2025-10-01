@@ -68,7 +68,6 @@ For the complete implementation of these algorithms, please refer to the code in
 
 ## 4. Repository Structure
 
-.
 ├── research/
 │   ├── quant_challenge_boost_to_0_7.py   # The final, high-performance research script (R² 0.65).
 │   └── r2_scores_progression.png         # The chart visualizing R² score improvements.
@@ -84,8 +83,6 @@ For the complete implementation of these algorithms, please refer to the code in
 │
 └── README.md                             # This file.
 
-
----
 
 ## 5. Key Learnings
 
